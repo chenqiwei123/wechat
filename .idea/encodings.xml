@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/CodeServlet/EmailLoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CodeServlet/Servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CodeServlet/agreeMe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/CodeServlet/user/myPowerServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Dao/UserInfoDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/DataBase/ConnectDataBase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Date/Joke.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/EmailCheck/EmailCheckServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/EmailCheck/EmailLoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HelpService/ServicePeople.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Manager/TemplateMessageManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/SetEncodingFilter/SetEncodingFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/User/UserInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/WechatServlet/ConnectWeChatServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/AbstractButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/AccessToken.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/Article.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/BaseMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/Button.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/CheckConnectUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/ClickButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/EmailCode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/Music.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/NewsMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/PhotoOrAlbumButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/SubButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/TextMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/ViewButton.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/imageMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/musicMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/videoMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hnu/scw/utils/voiceMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/imgRename.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/CreateMenu.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

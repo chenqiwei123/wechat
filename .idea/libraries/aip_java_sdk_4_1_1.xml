@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="aip-java-sdk-4.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/aip-java-sdk-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/aip-java-sdk-4.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/commons-httpclient-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/commons-logging-1.1.1 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/fastjson-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/jackson-annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/jackson-core-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/jackson-databind-2.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/java-jwt-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/jjwt-0.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/json-20160810.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/slf4j-api-1.7.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/slf4j-log4j13-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/xmlpull_1_0_5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/fastjson-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WechatMS:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/WechatMS_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WechatMS/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WechatMS" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/dom4j-1.6.1.jar" />
+          <element id="library" level="project" name="javax.mail" />
+          <element id="library" level="project" name="commons-email-1.4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

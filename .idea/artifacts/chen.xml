@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="chen">
+    <output-path>$PROJECT_DIR$/out/artifacts/chen</output-path>
+    <root id="archive" name="chen.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WechatMS" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/dom4j-1.6.1.jar" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="project" name="javax.annotation" />
+          <element id="library" level="project" name="annotations-api" />
+          <element id="library" level="project" name="javax.annotation1" />
+          <element id="library" level="project" name="aip-java-sdk-4.1.1" />
+          <element id="library" level="project" name="javax.mail" />
+          <element id="library" level="project" name="commons-email-1.4" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="WechatMS/web/Web" />
+    </root>
+  </artifact>
+</component>

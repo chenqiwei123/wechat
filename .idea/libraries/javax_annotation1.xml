@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javax.annotation1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/毕业设计微信公众号jar/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/毕业设计微信公众号jar/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/毕业设计微信公众号jar/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/毕业设计微信公众号jar/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/毕业设计微信公众号jar/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/毕业设计微信公众号jar/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/毕业设计微信公众号jar/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../编程/jar包/毕业设计微信公众号jar/xstream-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
