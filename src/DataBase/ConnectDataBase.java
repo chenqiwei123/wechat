@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectDataBase {
-    private String dbUrl="jdbc:mysql://175.24.12.113/wechat?characterEncoding=utf8";
+    private String dbUrl="jdbc:mysql://1XXXXXXXX/wechat?characterEncoding=utf8";
     private String dbUser="root";
     private String dbPassword="Chen123456...";
     private String jdbcName="com.mysql.cj.jdbc.Driver";
